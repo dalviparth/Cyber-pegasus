@@ -1,0 +1,1 @@
+C:\Users\PARTH DALVI\Source\Repos\cognitive-services-onnx-customvision-sample\CBD_Image_Classification.csproj;x64
